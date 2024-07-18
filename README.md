@@ -2,7 +2,7 @@
 
 This is the source code for SRRDBSCAN. The code is available in `src`, an example program is provided in `apps`. A python wrapper is provided in `python`. 
 
-The experimental evaluation uses the Python wrapper. The evaluation framework can be found at <https://github.com/cikm24-1183/evaluation-framework>.
+The experimental evaluation uses the Python wrapper. The evaluation framework can be found at <https://github.com/lshdbscan/benchmarking-framework>.
 
 # Requirements
 
@@ -27,7 +27,7 @@ Building the python package works as follows
 ```
 
 Input files are supposed to be HDF5 files.
-All data processing is provided with the evaluation framework <https://github.com/cikm24-1183/evaluation-framework>.
+All data processing is provided with the evaluation framework <https://github.com/lshdbscan/benchmarking-framework>.
 
 
 # Acknowledgements
